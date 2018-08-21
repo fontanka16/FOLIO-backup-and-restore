@@ -1,3 +1,4 @@
+This repo has been forked to https://github.com/FOLIO-FSE/FOLIO-backup-and-restore and lives there from now on
 # FOLIO-backup-and-restore
 ## Current functionality:
 * Backs up and restores data from a FOLIO tenant after reset. What data that gets reset depends on configuration.
